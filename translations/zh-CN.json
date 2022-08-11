@@ -1,0 +1,7 @@
+{
+    "messages": {
+        "core.ui.welcomeMessage": "My custom title", 
+        "core.ui.welcomeErrorMessage": "My custom title",
+        "home.welcomeTitle": "My custom title"
+    }
+}
