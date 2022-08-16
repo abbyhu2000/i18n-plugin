@@ -1,0 +1,10 @@
+{
+    "messages": {
+        "core.ui.welcomeMessage": "My custom title", 
+        "core.ui.welcomeErrorMessage": "My custom title",
+        "home.welcomeTitle": "My custom title",
+        "home.solutionTitle": "My custom title",
+        "opensearch-dashboards-react.osdOverviewPageHeader.title": "My custom title",
+        "core.ui.primaryNavSection.title": "My custom title"
+    }
+}

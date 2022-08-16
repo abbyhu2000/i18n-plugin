@@ -1,7 +1,10 @@
 {
     "messages": {
-        "core.ui.welcomeMessage": "My custom title", 
-        "core.ui.welcomeErrorMessage": "My custom title",
-        "home.welcomeTitle": "My custom title"
+        "core.ui.welcomeMessage": "网站名称", 
+        "core.ui.welcomeErrorMessage": "网站名称",
+        "home.welcomeTitle": "网站名称",
+        "home.solutionTitle": "网站名称",
+        "opensearch-dashboards-react.osdOverviewPageHeader.title": "网站名称",
+        "core.ui.primaryNavSection.title": "网站名称"
     }
 }
